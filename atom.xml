@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Syu&#39;s Blog</title>
+  <icon>https://riapsusr.github.io/icon.png</icon>
+  
+  <link href="https://riapsusr.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://riapsusr.github.io/"/>
+  <updated>2025-12-14T07:13:26.525Z</updated>
+  <id>https://riapsusr.github.io/</id>
+  
+  <author>
+    <name>SyuEishin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://riapsusr.github.io/posts/undefined/"/>
+    <id>https://riapsusr.github.io/posts/undefined/</id>
+    <published>2025-12-14T07:13:26.525Z</published>
+    <updated>2025-12-14T07:13:26.525Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>用文字记录生活</title>
+    <link href="https://riapsusr.github.io/posts/123cc93d/"/>
+    <id>https://riapsusr.github.io/posts/123cc93d/</id>
+    <published>2025-12-12T14:54:02.000Z</published>
+    <updated>2025-12-12T15:36:16.363Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今年年初，创建了这个博客，打算在这里用文字记录下我的生活。如今一年快过去了，却只在刚开始时写过一篇文章，之后便再也没有打理了。&lt;/p&gt;
+&lt;h1 id=&quot;表达欲的丧失&quot;&gt;&lt;a href=&quot;#表达欲的丧失&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>重新踏上价格行为交易之路</title>
+    <link href="https://riapsusr.github.io/posts/cba02c84/"/>
+    <id>https://riapsusr.github.io/posts/cba02c84/</id>
+    <published>2025-01-15T13:40:32.000Z</published>
+    <updated>2025-10-04T05:39:11.561Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前两年，我开始接触AI</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
